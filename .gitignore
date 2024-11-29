@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+_local/
+bin/
+lib/
+.idea/
+target_site/*.csv
